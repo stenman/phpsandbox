@@ -1,0 +1,10 @@
+body {
+    background-color: gray;
+}
+
+#ajaxinfo {
+	position: relative;
+	padding: 10px;
+	background-color: orange;
+	color:	black;
+}
